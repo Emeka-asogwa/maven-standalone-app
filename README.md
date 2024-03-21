@@ -1,0 +1,1 @@
+# maven-standalone-app
